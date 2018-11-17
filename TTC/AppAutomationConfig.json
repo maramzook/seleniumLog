@@ -1,0 +1,25 @@
+{
+  "platform": {
+    "platformOS": "Linux",
+    "platformVersion": "12.34"
+  },
+  "browser": {
+    "browserType": "chrome",
+    "browserVersion": "22.6",
+    "browserTimeoutSeconds": "60"
+  },
+  "application": {
+    "applicationName": "TTC - UI Tests",
+    "applicationComment": "UI test cases to test TTC",
+    "applicationURL": "https://testingconsultancy.com/",
+    "applicationURL2": "not-in-use"
+  },
+  "user": {
+    "userName": "",
+    "userPassword": ""
+  },
+  "screenCapture": {
+    "enable": true,
+    "logLevel": "Error"
+  }
+}

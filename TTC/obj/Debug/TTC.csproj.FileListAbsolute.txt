@@ -1,0 +1,2 @@
+C:\jbbWorkspace\seleniumLog\TTC\TTC\obj\Debug\TTC.csprojAssemblyReference.cache
+C:\jbbWorkspace\seleniumLog\TTC\TTC\obj\Debug\TTC.csproj.CoreCompileInputs.cache

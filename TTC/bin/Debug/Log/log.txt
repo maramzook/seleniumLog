@@ -1,0 +1,119 @@
+2018-11-17 10:21:37.403  [ INFO] Feature Title: People
+2018-11-17 10:21:37.456  [DEBUG] Read configuration file.
+2018-11-17 10:21:37.458  [DEBUG] Create default configuration file.
+2018-11-17 10:21:37.574  [ERROR] The Automation Application Configuration file was not found. The test will end. A default file will be created with default values. The configuration should be updated. Configuration file location: C:\jbbWorkspace\seleniumLog\TTC\TTC\AppAutomationConfig.json Exception message: Could not find file 'C:\jbbWorkspace\seleniumLog\TTC\TTC\AppAutomationConfig.json'.
+2018-11-17 10:21:37.739  [DEBUG] Read configuration file.
+2018-11-17 10:24:26.305  [ INFO] Feature Title: People
+2018-11-17 10:24:26.351  [DEBUG] Read configuration file.
+2018-11-17 10:24:26.397  [ INFO] --------------------------------------------------------------------------------
+2018-11-17 10:24:26.397  [ INFO] Start the Test Automation Process
+2018-11-17 10:24:26.397  [ INFO] Create the TestConfiguration
+2018-11-17 10:24:26.397  [DEBUG] Read configuration file.
+2018-11-17 10:24:26.398  [ INFO] Current application configuration settings.
+2018-11-17 10:24:26.399  [ INFO] Configuration file: C:\jbbWorkspace\seleniumLog\TTC\TTC\AppAutomationConfig.json
+2018-11-17 10:24:26.401  [ INFO] Platform OS: Linux
+2018-11-17 10:24:26.401  [ INFO] Platform Version: 12.34
+2018-11-17 10:24:26.401  [ INFO] Browser Type: chrome
+2018-11-17 10:24:26.401  [ INFO] Browser Version: 22.6
+2018-11-17 10:24:26.401  [ INFO] Browser Timeout (sec): 60
+2018-11-17 10:24:26.401  [ INFO] <log4net.Error>Exception during StringFormat: Index (zero based) must be greater than or equal to zero and less than the size of the argument list. <format>Browser Options: {0}</format><args>{}</args></log4net.Error>
+2018-11-17 10:24:26.434  [ INFO] Application Name: TTC - UI Tests
+2018-11-17 10:24:26.434  [ INFO] Application Comment: UI test cases to test TTC
+2018-11-17 10:24:26.434  [ INFO] Application URL: https://testingconsultancy.com/
+2018-11-17 10:24:26.434  [ INFO] Application URL2: not-in-use
+2018-11-17 10:24:26.434  [ INFO] User Name: 
+2018-11-17 10:24:26.434  [ INFO] User Password: 
+2018-11-17 10:24:26.434  [ INFO] ScreenCapture Enable: True
+2018-11-17 10:24:26.434  [ INFO] ScreenCapture LogLevel: Error
+2018-11-17 10:24:26.434  [ INFO] Scenario Title: show the presentation
+2018-11-17 10:24:29.743  [ INFO] Step: Given I have prepared my presentation
+2018-11-17 10:24:29.752  [DEBUG] Navigate to the website.
+2018-11-17 10:24:35.846  [DEBUG] Navigated to: 'https://testingconsultancy.com/'
+2018-11-17 10:24:35.848  [ INFO] Step Done: OK
+2018-11-17 10:24:35.849  [ INFO] Step: When I demo the presentation
+2018-11-17 10:24:35.850  [ INFO] Clicking the employer name link
+2018-11-17 10:24:35.850  [ INFO] Step Done: OK
+2018-11-17 10:24:35.850  [ INFO] Step: Then the good-job-offer should be in my email
+2018-11-17 10:24:35.850  [ INFO] Clicking the employer name link
+2018-11-17 10:24:35.850  [ INFO] Step Done: OK
+2018-11-17 10:33:53.084  [ INFO] Feature Title: People
+2018-11-17 10:33:53.131  [DEBUG] Read configuration file.
+2018-11-17 10:33:53.177  [ INFO] --------------------------------------------------------------------------------
+2018-11-17 10:33:53.177  [ INFO] Start the Test Automation Process
+2018-11-17 10:33:53.177  [ INFO] Create the TestConfiguration
+2018-11-17 10:33:53.177  [DEBUG] Read configuration file.
+2018-11-17 10:33:53.178  [ INFO] Current application configuration settings.
+2018-11-17 10:33:53.179  [ INFO] Configuration file: C:\jbbWorkspace\seleniumLog\TTC\TTC\AppAutomationConfig.json
+2018-11-17 10:33:53.181  [ INFO] Platform OS: Linux
+2018-11-17 10:33:53.181  [ INFO] Platform Version: 12.34
+2018-11-17 10:33:53.181  [ INFO] Browser Type: chrome
+2018-11-17 10:33:53.181  [ INFO] Browser Version: 22.6
+2018-11-17 10:33:53.181  [ INFO] Browser Timeout (sec): 60
+2018-11-17 10:33:53.181  [ INFO] <log4net.Error>Exception during StringFormat: Index (zero based) must be greater than or equal to zero and less than the size of the argument list. <format>Browser Options: {0}</format><args>{}</args></log4net.Error>
+2018-11-17 10:33:53.207  [ INFO] Application Name: TTC - UI Tests
+2018-11-17 10:33:53.207  [ INFO] Application Comment: UI test cases to test TTC
+2018-11-17 10:33:53.207  [ INFO] Application URL: https://testingconsultancy.com/
+2018-11-17 10:33:53.207  [ INFO] Application URL2: not-in-use
+2018-11-17 10:33:53.207  [ INFO] User Name: 
+2018-11-17 10:33:53.207  [ INFO] User Password: 
+2018-11-17 10:33:53.207  [ INFO] ScreenCapture Enable: True
+2018-11-17 10:33:53.207  [ INFO] ScreenCapture LogLevel: Error
+2018-11-17 10:33:53.207  [ INFO] Scenario Title: show the presentation
+2018-11-17 10:33:54.628  [ INFO] Step: Given I have prepared my presentation
+2018-11-17 10:33:54.636  [DEBUG] Navigate to the website.
+2018-11-17 10:34:02.833  [DEBUG] Navigated to: 'https://testingconsultancy.com/'
+2018-11-17 10:34:02.836  [ INFO] Step Done: OK
+2018-11-17 10:34:02.836  [ INFO] Step: When I demo the presentation
+2018-11-17 10:34:02.837  [ INFO] Clicking the MENU link
+2018-11-17 10:34:02.909  [ INFO] Clicking the People link
+2018-11-17 10:34:06.176  [ INFO] Step Done: OK
+2018-11-17 10:34:06.176  [ INFO] Step: Then the good-job-offer should be in my email
+2018-11-17 10:34:06.179  [ INFO] Getting the number of employees, should be 21
+2018-11-17 10:34:06.256  [ INFO] Step Done: TestError
+2018-11-17 10:34:06.843  [ INFO] Screenshot: file:///C:/jbbWorkspace/seleniumLog/TTC/TTC/testresults/error_People_show the presentation_20181117_103406_256528_screenshot.png
+2018-11-17 10:34:06.843  [ INFO] Test Error Exception(if Any): NUnit.Framework.AssertionException:   Expected: 21
+  But was:  25
+
+   at NUnit.Framework.Assert.ReportFailure(String message) in C:\src\nunit\nunit\src\NUnitFramework\framework\Assert.cs:line 408
+   at NUnit.Framework.Assert.ReportFailure(ConstraintResult result, String message, Object[] args) in C:\src\nunit\nunit\src\NUnitFramework\framework\Assert.cs:line 396
+   at NUnit.Framework.Assert.That[TActual](TActual actual, IResolveConstraint expression, String message, Object[] args) in C:\src\nunit\nunit\src\NUnitFramework\framework\Assert.That.cs:line 247
+   at NUnit.Framework.Assert.AreEqual(Object expected, Object actual) in C:\src\nunit\nunit\src\NUnitFramework\framework\Assert.Equality.cs:line 128
+   at TTCtestFramework.StepDefinition.PeopleStepDefinition.ThenTheGood_Job_OfferShouldBeInMyEmail() in C:\jbbWorkspace\seleniumLog\TTC\TTC\StepDefinitions\PeopleStepDefinition.cs:line 47
+   at lambda_method(Closure , IContextManager )
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)
+2018-11-17 10:34:30.921  [ INFO] Feature Title: People
+2018-11-17 10:34:30.969  [DEBUG] Read configuration file.
+2018-11-17 10:34:31.017  [ INFO] --------------------------------------------------------------------------------
+2018-11-17 10:34:31.018  [ INFO] Start the Test Automation Process
+2018-11-17 10:34:31.018  [ INFO] Create the TestConfiguration
+2018-11-17 10:34:31.018  [DEBUG] Read configuration file.
+2018-11-17 10:34:31.019  [ INFO] Current application configuration settings.
+2018-11-17 10:34:31.019  [ INFO] Configuration file: C:\jbbWorkspace\seleniumLog\TTC\TTC\AppAutomationConfig.json
+2018-11-17 10:34:31.021  [ INFO] Platform OS: Linux
+2018-11-17 10:34:31.021  [ INFO] Platform Version: 12.34
+2018-11-17 10:34:31.021  [ INFO] Browser Type: chrome
+2018-11-17 10:34:31.021  [ INFO] Browser Version: 22.6
+2018-11-17 10:34:31.021  [ INFO] Browser Timeout (sec): 60
+2018-11-17 10:34:31.021  [ INFO] <log4net.Error>Exception during StringFormat: Index (zero based) must be greater than or equal to zero and less than the size of the argument list. <format>Browser Options: {0}</format><args>{}</args></log4net.Error>
+2018-11-17 10:34:31.047  [ INFO] Application Name: TTC - UI Tests
+2018-11-17 10:34:31.047  [ INFO] Application Comment: UI test cases to test TTC
+2018-11-17 10:34:31.047  [ INFO] Application URL: https://testingconsultancy.com/
+2018-11-17 10:34:31.047  [ INFO] Application URL2: not-in-use
+2018-11-17 10:34:31.047  [ INFO] User Name: 
+2018-11-17 10:34:31.047  [ INFO] User Password: 
+2018-11-17 10:34:31.047  [ INFO] ScreenCapture Enable: True
+2018-11-17 10:34:31.047  [ INFO] ScreenCapture LogLevel: Error
+2018-11-17 10:34:31.047  [ INFO] Scenario Title: show the presentation
+2018-11-17 10:34:32.521  [ INFO] Step: Given I have prepared my presentation
+2018-11-17 10:34:32.530  [DEBUG] Navigate to the website.
+2018-11-17 10:34:40.326  [DEBUG] Navigated to: 'https://testingconsultancy.com/'
+2018-11-17 10:34:40.328  [ INFO] Step Done: OK
+2018-11-17 10:34:40.329  [ INFO] Step: When I demo the presentation
+2018-11-17 10:34:40.329  [ INFO] Clicking the MENU link
+2018-11-17 10:34:40.402  [ INFO] Clicking the People link
+2018-11-17 10:34:43.621  [ INFO] Step Done: OK
+2018-11-17 10:34:43.621  [ INFO] Step: Then the good-job-offer should be in my email
+2018-11-17 10:34:43.624  [ INFO] Getting the number of employees, should be 25
+2018-11-17 10:34:43.665  [ INFO] Step Done: OK
